@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* =================================================================== 
- * Monica Main Stylesheet
+ * Ajay Main Stylesheet
  * Template Ver. 1.0.0
  * 12-13-2022
  * ------------------------------------------------------------------
@@ -3233,10 +3233,11 @@ td:last-child {
 	border : none;
 }
 
-.s-header__logo img {
+.s-header__logo h3 {
 	width         : var(--logo-width);
 	margin        : 0;
 	vertical-align: bottom;
+	text-align: right;
 }
 
 /* --------------------------------------------------------------------
